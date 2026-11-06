@@ -66,6 +66,17 @@ Used MySQL to perform analytical queries and examine:
 ### 5. Power BI Dashboard
 Developed an interactive dashboard to present key insights through visualizations, charts, KPIs and filters.
 
+## 📊 Dashboard Preview
+
+### 1. Overview Dashboard
+![Overview](images/Overview.png)
+
+### 2. Charger Analysis
+![Charger Analysis](images/ChargerAnalysis.png)
+
+### 3. Geographical Analysis
+![Geographical Analysis](images/Geographical.png)
+
 ## 📊 Key Findings
 
 The analysis explores:
