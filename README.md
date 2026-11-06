@@ -75,10 +75,6 @@ The analysis explores:
 - AC and DC charger distribution.
 - Distribution of chargers across different power categories.
 
-## 📈 Dashboard Preview
-
-*Power BI dashboard screenshots will be added here.*
-
 ## 💡 Project Outcome
 
 This project demonstrates the practical application of Python, SQL and Power BI in analyzing real-world infrastructure data. It provides insights into India's EV charging infrastructure distribution and helps highlight areas that may require further infrastructure development.
